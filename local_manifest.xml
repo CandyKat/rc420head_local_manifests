@@ -44,7 +44,7 @@
   
   # oppo/oneplus devices
   
-  <project name="device_oneplus_bacon" path="device/oneplus/bacon" remote="candy" revision="ck44" />
+  <project name="rc420head/device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="ck44" />
   <project name="SlimRoms/kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" revision="kk4.4" />
   <project name="SlimRoms/device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="github" revision="kk4.4" />
   <project name="SlimRoms/device_oppo_common" path="device/oppo/common" remote="github" revision="kk4.4" />
