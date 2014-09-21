@@ -61,7 +61,7 @@
   <project name="cyanogenmod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-11.0" />
   <project name="themuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-11.0" />
   <project name="slimroms/device_sony_qcom-common" path="device/sony/qcom-common" remote="github" revision="kk4.4" />
-  <project name="slimroms/device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="kk4.4" />
+  <project name="cyanogenmod/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-11.0" />
    
 </manifest>
 
