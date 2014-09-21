@@ -61,7 +61,11 @@
   <project name="cyanogenmod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-11.0" />
   <project name="themuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-11.0" />
   <project name="slimroms/device_sony_qcom-common" path="device/sony/qcom-common" remote="github" revision="kk4.4" />
-  <project name="cyanogenmod/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-11.0" />
+  <project name="rc420head/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-11.0" />
+  <project name="cyanogenmod/android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="github" revision="cm-11.0" />
+  <project name="cyanogenmod/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant_service" remote="github" revision="cm-11.0" />
+  <project name="cyanogenmod/android_external_ant-wireless_ant_native" path="external/ant-wireless/ant_native" remote="github" revision="cm-11.0" />
+     
    
 </manifest>
 
