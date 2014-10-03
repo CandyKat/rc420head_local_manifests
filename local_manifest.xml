@@ -66,7 +66,7 @@
   <project name="rc420head/device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="ck44" />
   <project name="SlimRoms/kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="kk4.4" />
   <project name="SlimRoms/device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="kk4.4" />
-  <project name="SlimRoms/device_motorola_qcom-common" path="SlimRoms/device_motorola_qcom-common" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/device_motorola_qcom-common" path="device/motorola/qcom-common" remote="github" revision="kk4.4" />
   <project name="Theloonybin/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="kk4.4" />
   
   
