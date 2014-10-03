@@ -25,6 +25,7 @@
   <project name="cyanogenmod/android_kernel_htc_msm8960" path="kernel/htc/s4" remote="github" revision="cm-11.0" />
   <project name="slimroms/device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="kk4.4" />
   <project name="themuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-11.0" />
+  <project name="rc420head/device_htc_m4" path="device/htc/m4" remote="github" revision="ck44" />
   
   # samsung devices
   
@@ -62,6 +63,12 @@
   <project name="Theloonybin/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="kk4.4" />
   
   # motorola devices
+  <project name="rc420head/device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="ck44" />
+  <project name="SlimRoms/kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/device_motorola_qcom-common" path="SlimRoms/device_motorola_qcom-common" remote="github" revision="kk4.4" />
+  <project name="Theloonybin/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="kk4.4" />
+  
   
   # sony devices
   
