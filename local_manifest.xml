@@ -56,6 +56,7 @@
   <project name="invisiblek/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-11.0" />
   <project name="rc420head/device_lge_d851" path="device/lge/d851" remote="github" revision="ck44" />
   <project name="rc420head/device_lge_ls990" path="device/lge/ls990" remote="github" revision="ck44" />
+  <project name="rc420head/device_lge_ls980" path="device/lge/ls980" remote="github" revision="ck44" />
   
   # oppo/oneplus devices
   
