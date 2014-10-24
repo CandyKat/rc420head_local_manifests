@@ -1,1 +1,4 @@
 . build/envsetup.sh && make clobber && time brunch m8 -j8 && time brunch m7 -j8 && time brunch m7spr -j8 && time brunch i9300 -j8 && time brunch d801 -j8 && time brunch evita -j8 && time brunch bacon -j8 && time brunch ville -j8 && mv ~/candykat/out/target/product/ville ~/candykat/out/target/product/ville215 && cd ~/candykat/device/htc/ville && git checkout ck44216 && cd ~/candykat && time brunch ville -j8 && time brunch m4 -j8 && time brunch ls990 -j8
+
+
+prebuilts/misc/linux-x86/ccache/ccache -M 100G
