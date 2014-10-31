@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://bitbucket.org" name="bitbucket" />
+  
+#ShitRocket
+  <project name="cuzz1369/device_samsung_skyrocket" path="device/samsung/skyrocket" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/device_samsung_celox-common" path="device/samsung/celox-common" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/kernel_samsung_msm8660" path="kernel/samsung/msm8660" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/device_samsung_hercules" path="device/samsung/hercules" remote="github" revision="kk4.4" />
+</manifest>
