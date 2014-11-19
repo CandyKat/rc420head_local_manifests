@@ -54,7 +54,7 @@
   <project name="cyanogenmod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-11.0" />
   <project name="cyanogenmod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-11.0" />
   <project name="rc420head/device_lge_d851" path="device/lge/d851" remote="github" revision="ck44" />
-  <project name="jholtom/android_device_lge_ls990" path="device/lge/ls990" remote="github" revision="ck44" />
+  <project name="jholtom/android_device_lge_ls990" path="device/lge/ls990" remote="github" revision="cm-11.0" />
  
   
   # oppo/oneplus devices
